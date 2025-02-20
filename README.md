@@ -1,15 +1,17 @@
 # Hi there, I'm Satyam Kashid! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Satyamkashid&color=blue&style=flat-square)
+
 <img src="https://img.freepik.com/premium-photo/concept-database-ai-infographics-ai-generation-black-background-ai-generation_235573-2636.jpg?w=996" width="100%" />
 
 ## 🚀 About Me
 
-I'm a **Python & Generative AI Developer** passionate about building AI-driven applications and working with Large Language Models (LLMs). I have experience in **Machine Learning, LangChain, RAG applications, and API development**.
+I'm a **Python & Generative AI Developer** specializing in **𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 (𝐋𝐋𝐌𝐬), 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧, 𝐑𝐀𝐆 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞𝐬, 𝐚𝐧𝐝 𝐀𝐈-𝐝𝐫𝐢𝐯𝐞𝐧 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧**. My passion lies in designing and implementing efficient AI systems that enhance information retrieval, automate workflows, and optimize decision-making processes.
 
-- 🔭 Currently working on **Agentic AI using LangGraph & Neo4j**
-- 🌱 Learning **NLP and advanced AI techniques**
-- 🎯 Interested in **AI, ML, and Web Development**
-- 💡 Exploring **Vector Databases, RAG, and AI-driven automation**
+- 🔭 Currently working on **Building intelligent retrieval-augmented systems (RAG) using tools like FAISS, LangChain, and Neo4j to deliver accurate and context-aware AI solutions.**
+- 🌱 Learning **Agentic AI using LangGraph, Neo4j & Advanced AI techniques**
+- 🎯 Interested in **Developing Python-based automation frameworks that streamline data processing, reduce manual effort, and improve operational  efficiency.**
+- 💡 Exploring **Flask & Fast APIs with React UIsVector Databases, RAG, and AI-driven automation**
 
 <img src="https://i.gifer.com/75lD.gif" width="100%" />
 
