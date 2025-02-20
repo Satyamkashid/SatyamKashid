@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Satyamkashid&color=blue)
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" height="200" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" height="200" />
 
 ## 🚀 About Me
 
@@ -13,7 +13,7 @@ I'm a **Python & Generative AI Developer** passionate about building AI-driven a
 - 🎯 Interested in **AI, ML, and Web Development**
 - 💡 Exploring **Vector Databases, RAG, and AI-driven automation**
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" height="200" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200" />
 
 ## 🛠️ Technologies & Tools
 
@@ -25,7 +25,7 @@ I'm a **Python & Generative AI Developer** passionate about building AI-driven a
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="400" height="200" />
+<img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="400" height="200" />
 
 ## 📊 GitHub Overview
 
@@ -41,7 +41,7 @@ I'm a **Python & Generative AI Developer** passionate about building AI-driven a
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Satyamkashid&theme=onedark&margin-w=15)
 
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="400" height="200" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200" />
 
 ## 📫 Connect with Me
 
