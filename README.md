@@ -1,6 +1,7 @@
 # Hi there, I'm Satyam Kashid! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Satyamkashid&color=blue&style=flat-square)
+![Profile Views: 200+](https://img.shields.io/badge/Profile%20Views-100%2B-blue?style=flat-square)
 
 <img src="https://img.freepik.com/premium-photo/concept-database-ai-infographics-ai-generation-black-background-ai-generation_235573-2636.jpg?w=996" width="100%" />
 
