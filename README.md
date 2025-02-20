@@ -1,7 +1,6 @@
 # Hi there, I'm Satyam Kashid! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Satyamkashid&color=blue&style=flat-square)
-![Profile Views: 200+](https://img.shields.io/badge/Profile%20Views-100%2B-blue?style=flat-square)
 
 <img src="https://img.freepik.com/premium-photo/concept-database-ai-infographics-ai-generation-black-background-ai-generation_235573-2636.jpg?w=996" width="100%" />
 
@@ -20,12 +19,14 @@ I'm a **Python & Generative AI Developer** specializing in **𝐋𝐚𝐫𝐠�
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![LangChain](https://img.shields.io/badge/LangChain-%232E4053.svg?style=for-the-badge)  
-![FAISS](https://img.shields.io/badge/FAISS-%230098A4.svg?style=for-the-badge)  
+![Vector DB](https://img.shields.io/badge/FAISS-%230098A4.svg?style=for-the-badge)  
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![LLM](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%230098A4.svg?style=for-the-badge)  
 
 <img src="https://i.gifer.com/JXA0.gif" width="100%" />
 
