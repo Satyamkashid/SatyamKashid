@@ -1,6 +1,6 @@
 # Hi there, I'm Satyam Kashid! 👋
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+<img src="https://img.freepik.com/premium-photo/concept-database-ai-infographics-ai-generation-black-background-ai-generation_235573-2636.jpg?w=996" width="100%" />
 
 ## 🚀 About Me
 
@@ -11,7 +11,8 @@ I'm a **Python & Generative AI Developer** passionate about building AI-driven a
 - 🎯 Interested in **AI, ML, and Web Development**
 - 💡 Exploring **Vector Databases, RAG, and AI-driven automation**
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://i.gifer.com/75lD.gif" width="100%" />
+
 
 ## 🛠️ Technologies & Tools
 
@@ -23,7 +24,9 @@ I'm a **Python & Generative AI Developer** passionate about building AI-driven a
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="100%" />
+<img src="https://i.gifer.com/JXA0.gif" width="100%" />
+
+
 
 ## 📊 GitHub Overview
 
@@ -39,7 +42,8 @@ I'm a **Python & Generative AI Developer** passionate about building AI-driven a
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Satyamkashid&theme=onedark&margin-w=15)
 
-<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+
 
 ## 📫 Connect with Me
 
