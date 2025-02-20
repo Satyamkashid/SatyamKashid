@@ -11,7 +11,7 @@ I'm a **Python & Generative AI Developer** passionate about building AI-driven a
 - 🎯 Interested in **AI, ML, and Web Development**
 - 💡 Exploring **Vector Databases, RAG, and AI-driven automation**
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 ## 🛠️ Technologies & Tools
 
@@ -39,7 +39,7 @@ I'm a **Python & Generative AI Developer** passionate about building AI-driven a
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Satyamkashid&theme=onedark&margin-w=15)
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="100%" />
 
 ## 📫 Connect with Me
 
