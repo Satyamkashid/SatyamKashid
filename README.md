@@ -19,14 +19,14 @@ I'm a **Python & Generative AI Developer** specializing in **𝐋𝐚𝐫𝐠�
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Generative AI](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6F00.svg?style=for-the-badge&logo=aiqfome&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300A896.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-%232E4053.svg?style=for-the-badge)  
 ![Vector DB](https://img.shields.io/badge/FAISS-%230098A4.svg?style=for-the-badge)  
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)  
-![LLM](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![LLM](https://img.shields.io/badge/LLM-%23FF4081.svg?style=for-the-badge&logo=openai&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-%230098A4.svg?style=for-the-badge)  
+
 
 <img src="https://i.gifer.com/JXA0.gif" width="100%" />
 
